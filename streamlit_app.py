@@ -1,1 +1,3 @@
-시작파일
+import streamlit as st
+
+st.title("내 앱")
